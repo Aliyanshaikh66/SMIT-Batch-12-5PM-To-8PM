@@ -1,0 +1,33 @@
+*{
+    background-color: yellow;
+}
+p{
+    
+        font-family: "Ga Maamli", sans-serif;
+        font-weight: 800;
+        font-style: normal;   
+        color: rgba(246, 0, 0, 0.999);   
+}
+.i ,.i1{
+    font-family: sans-serif;
+    color: blue;
+    color: blueviolet;
+    color: chartreuse;
+}
+/* .note{
+    color: aqua;
+} */
+.note{
+    color: orange;
+}
+#list{
+    background-color: blanchedalmond;
+
+}
+ul li,ol{
+    font-style: italic;
+
+}
+h1~p{
+    background-color: brown;
+}
