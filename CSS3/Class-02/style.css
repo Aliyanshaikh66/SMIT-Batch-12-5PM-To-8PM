@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+
+.text-img{
+    font-size: 100px;
+    background-image: url(./images.png);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+   /* first value is work to horizontal & second value vertical & third biler */
+.para{
+    text-shadow: 1px 0px #bfbf00;
+
+}
+
+a:link {  
+    color: deeppink;  
+    text-decoration: none;
+}
+a:visited {
+   color: black;
+}
+a:hover {  
+    color: rgb(10, 227, 137);  
+    text-decoration: 
+    underline;
+}
+a:active {  
+    color: darkcyan;
+}
+/* input{
+    padding: ;
+    border:; 
+    color: ;
+} */
+input.submit:hover{
+    background-color: #bfbf00;
+
+}
+input.submit:active{
+    background-color: blue;
+
+}
+input.text{
+    color: rgb(195, 53, 195);
+
+}
+input.text:focus{
+    color: rgb(189, 28, 0);
+
+}
+
+
+
+
+
+   
+
