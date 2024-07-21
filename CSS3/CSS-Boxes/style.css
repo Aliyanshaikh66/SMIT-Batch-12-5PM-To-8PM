@@ -4,10 +4,11 @@
 .tr,td{
     border: 2px solid black;
     margin: 50px;
+    border-spacing: 10px;
 }
-.tr2{
+/* .tr2{
     padding: 10px;
-}
+} */
 td{
     border-radius: 20px;
     text-align: justify;
@@ -21,3 +22,10 @@ td{
       padding: 5px;  
       margin: 20px;
 } */
+p{
+    background-color: red;
+    text-align: justify;
+    min-width: 50%;
+    min-height: 100px;
+    overflow: scroll;
+}
