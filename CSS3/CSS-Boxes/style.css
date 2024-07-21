@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(9, 51, 51);
+}
+.tr,td{
+    border: 2px solid black;
+    margin: 50px;
+}
+.tr2{
+    padding: 10px;
+}
+td{
+    border-radius: 20px;
+    text-align: justify;
+    padding: 5px;
+    margin: 20px;    
+}
+/* .description {  
+      min-width: 450px; 
+      max-width: 650px; 
+      text-align: left;  
+      padding: 5px;  
+      margin: 20px;
+} */
