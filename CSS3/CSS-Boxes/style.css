@@ -72,13 +72,16 @@ p{
     background-color: cyan;
 }
 .main{
-    border: 2px solid black;
+    border: 2px solid rgb(1, 1, 1);
     padding: 10px;
     width: 20% ;
     margin: 10px auto;
     margin-right: 10px;
     border-radius: 5px;
     display: inline-block;
+    background-color: yellow;
+    box-shadow: -3px 4px 34px -3px rgba(255, 0, 0, 0.68);
+    text-align: justify;
 
 }
 body{
@@ -93,4 +96,7 @@ li{
 }
 a{
     text-decoration: none;
+}
+.gallery{
+    visibility: ;
 }
