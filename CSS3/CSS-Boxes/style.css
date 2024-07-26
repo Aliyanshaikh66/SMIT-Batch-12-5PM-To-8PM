@@ -1,4 +1,4 @@
-*{
+/* *{
     background-color: rgb(9, 51, 51);
 }
 .tr,td{
@@ -9,12 +9,12 @@
 /* .tr2{
     padding: 10px;
 } */
-td{
+/* td{
     border-radius: 20px;
     text-align: justify;
     padding: 5px;
     margin: 20px;    
-}
+} */ 
 /* .description {  
       min-width: 450px; 
       max-width: 650px; 
@@ -22,10 +22,52 @@ td{
       padding: 5px;  
       margin: 20px;
 } */
-p{
+/* p{
     background-color: red;
     text-align: justify;
     min-width: 50%;
     min-height: 100px;
     overflow: scroll;
+} */
+/* *{
+    background-color: cyan;
+} */
+/* .main {
+    background-color: blue;
+    width: 50%;
+    height: 100px;
+    
+
+}
+.table{
+    border: 2px solid black;
+    min-width: 300px;
+    max-width: 700px;
+    background-color: brown;
+    min-height: 400px;
+    max-height: 800px;
+}
+img{
+    height: 50px;
+    width: 100px;
+}
+/* tr{
+    border: 2px solid black;
+} */
+/* td{
+    border: 5px dotted gray;
+    border-radius: 5px;
+} */ 
+/* .para{
+    width: 50%;
+    line-height: 1.2em;
+    overflow-x: scroll;
+    
+}
+p{
+    line-height: 1.2em;
+} */
+
+*{
+    background-color: cyan;
 }
