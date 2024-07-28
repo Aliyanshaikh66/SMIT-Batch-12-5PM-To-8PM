@@ -92,11 +92,22 @@ li{
     display: inline-block;
     text-decoration: none;
     margin: 20px;
-
 }
-/* a{
+/* li{
+    list-style-image: url(./images.png)
+
+} */
+a{
     text-decoration: none;
 }
 .gallery{
     visibility: ;
-} */
+}
+.tab{
+    empty-cells: inherit;
+}
+td {  
+    border: 1px solid #ff0000;  
+    padding: 15px;
+}
+
