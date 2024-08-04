@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    }
+.header{
+    border: 2px solid black;
+    background-color: black; 
+    height: 92px;  
+}
+img{
+    width: 180px;
+    margin-left: 200%;
+    padding-top: 5px;
+}
+ul{
+    justify-content: center;
+}
+li{
+    display: inline;
+    color: white;
+    margin-left: 30px;
+}
+.header,.menu{
+    display: flex;
+}
+.menu{
+    margin-left: 30%;
+    padding-top: 20px; 
+}
+.btn{
+    padding-top: 15px;
+    margin-left: 40px;
+    
+}
+.b1,.b2{
+    padding: 20px;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+.b1{
+    background-color: transparent;
+    color: white;
+    margin-right: 20px;
+}
+.b2{
+    background-color: red;
+    color: white;
+    border-color: red;
+
+}
+i{
+    background-color: white;
+    color: red;
+    border-radius: 50%;
+    padding: 3px;
+    margin-left: 5px;
+}
+.img1{
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+    margin-top: -5px;
+}
+.brands{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    padding-top: 200px;
+   
+}
+.p{
+    font-size: 80px;
+    font-family: futurak;
+}
+.p1{
+    font-size: 65px;
+    margin-top: -60px;
+
+}
+.para{
+    font-size: 30px;
+    margin-top: -30px;
+    color: rgba(255, 255, 255, 0.7);
+
+}
+/* .span{
+   
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+} */
