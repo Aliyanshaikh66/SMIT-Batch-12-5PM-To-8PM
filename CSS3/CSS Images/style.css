@@ -1,0 +1,13 @@
+/* body{
+    background: linear-gradient(90deg, rgba(0,212,255,1) 45%, rgba(9,9,121,1) 50%, rgba(2,0,36,1) 67%);
+} */
+img{
+    width: 100PX;
+    height: 100PX;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    z-index: -1;
+    opacity: 0.5;
+
+}
