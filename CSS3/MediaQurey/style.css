@@ -1,0 +1,73 @@
+/* .container{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    justify-content: center;
+    display: flex;
+} */
+/* img{
+    height: 500px;
+    width: 100%
+} */
+/* @media screen and (max-width: 800px) {
+    .container {
+        
+        background-color: blue;
+        border: 2px solid black;
+        border-radius: 10px;
+      
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .container {
+        
+        background-color: red;
+        border: 2px solid black;
+        border-radius: 10px;
+      
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .container {
+        
+        background-color: rgb(175, 118, 128);
+        border: 2px solid black;
+        border-radius: 10px;
+      /* Apply some styles */
+
+/* 
+body{
+  margin: 0px;
+}
+.container{
+  height: 80px;
+  width: 100%;
+  background-color: aqua;
+}
+li{
+  text-align: center;
+  position: absolute;
+  position: relative;
+  left: 35%;
+  top: 30px;
+  margin-left: 10px;
+  display: inline-block;
+}
+.btn{
+  margin-left: 80%;
+
+}
+
+@media screen and (max-width: 500px){
+       li{
+        left: 10%;
+
+  }
+  
+}
+
+@media screen and {
+  .container{
+   display: flex;
+}
+} */
